@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https//ruslanofc.github.io/shitest/static/css/main.d1b05096.chunk.css",
+    "main.js": "https//ruslanofc.github.io/shitest/static/js/main.c0c9d1ae.chunk.js",
+    "main.js.map": "https//ruslanofc.github.io/shitest/static/js/main.c0c9d1ae.chunk.js.map",
+    "runtime-main.js": "https//ruslanofc.github.io/shitest/static/js/runtime-main.2e424635.js",
+    "runtime-main.js.map": "https//ruslanofc.github.io/shitest/static/js/runtime-main.2e424635.js.map",
+    "static/js/2.314647af.chunk.js": "https//ruslanofc.github.io/shitest/static/js/2.314647af.chunk.js",
+    "static/js/2.314647af.chunk.js.map": "https//ruslanofc.github.io/shitest/static/js/2.314647af.chunk.js.map",
+    "index.html": "https//ruslanofc.github.io/shitest/index.html",
+    "precache-manifest.15d5d2e695fff67fdedb75255ee3066a.js": "https//ruslanofc.github.io/shitest/precache-manifest.15d5d2e695fff67fdedb75255ee3066a.js",
+    "service-worker.js": "https//ruslanofc.github.io/shitest/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "https//ruslanofc.github.io/shitest/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.314647af.chunk.js.LICENSE": "https//ruslanofc.github.io/shitest/static/js/2.314647af.chunk.js.LICENSE",
+    "static/media/logo.svg": "https//ruslanofc.github.io/shitest/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e424635.js",
+    "static/js/2.314647af.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.c0c9d1ae.chunk.js"
+  ]
+}
